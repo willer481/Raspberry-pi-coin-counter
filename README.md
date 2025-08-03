@@ -13,11 +13,11 @@ A lightweight MicroPython driver for SSD1306 OLED displays, tested on a 128x32 s
 🔗 Follow Me!
 I'm Willem — a 13-year-old coder from the UK who loves Python, MicroPython, and 3D modeling. This is just one of many projects I'm working on!
 
-🧠 GitHub: willer481
+🧠 [GitHub](https://github.com/willer481)
 
-🎬 YouTube: @Rox_Playz_Blox
+🎬 [YouTube](https://www.youtube.com/@Rox_Playz_Blox)
 
-☕ Ko-fi: Support my work
+☕ [Ko-fi](https://ko-fi.com/willem67762)
 
 If this helped you or you’d like to support me, feel free to subscribe, follow, or donate!
 
