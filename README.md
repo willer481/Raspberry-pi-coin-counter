@@ -20,6 +20,10 @@ oled = SSD1306_I2C(128, 32, i2c)
 oled.text("Hello World!", 0, 0)
 oled.show()
 
+--
+
+## Extras
+
 🔗 Follow Me!
 I'm Willem — a 13-year-old coder from the UK who loves Python, MicroPython, and 3D modeling. This is just one of many projects I'm working on!
 
